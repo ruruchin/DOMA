@@ -7,3 +7,6 @@ def SlistDigit():
         SDigit += digit
     print(SDigit)
 SlistDigit()
+
+
+""""""

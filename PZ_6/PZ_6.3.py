@@ -6,4 +6,4 @@ def Index_Spiska(lsd):
     for i in range(K):
         first = lsd[i]
         second = lsd[i+1]
-
+""""""

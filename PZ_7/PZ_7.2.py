@@ -6,7 +6,7 @@ for word in predlo:
 """"""
 
 
-
+""""""
 
 
 
